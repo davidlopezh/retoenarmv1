@@ -1,0 +1,3 @@
+rootProject.name = 'retoev2'
+
+include ':app'
